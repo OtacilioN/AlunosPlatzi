@@ -13,3 +13,7 @@ Eu sou Marco, moro no Rio de Janeiro, estou estudando Desenvolvimento WEB por co
 ## Lais Pereira
 
 Meu nome é Lais, moro em São Paulo, sou muito curiosa pela área de tecnologia e estou gostando muito dos cursos que está dentro do projeto da bolsa de estudos! Já realizei o curso de programação básica e não vejo a hora de começar a trabalhar como frontend!
+
+## Felipe Brigagão de Almeida
+
+Meu nome é Felipe, moro em Brasília, tenho 24 anos e estou cursando Bacharelado em Ciência da Computação na Universidade Católica de Brasília, gosto muito de PHP e JavaScript, atualmente estou estudando Python e C, gosto muito de programação e venho estudando por conta própria desde os 16 anos, estou aproveitando ao máximo a bolsa da Platzi e estou gostando bastante das aulas e dos professores.
