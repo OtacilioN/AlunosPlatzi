@@ -19,4 +19,7 @@ Meu nome é Lais, moro em São Paulo, sou muito curiosa pela área de tecnologia
 Meu nome é Felipe, moro em Brasília, tenho 24 anos e estou cursando Bacharelado em Ciência da Computação na Universidade Católica de Brasília, gosto muito de PHP e JavaScript, atualmente estou estudando Python e C, gosto muito de programação e venho estudando por conta própria desde os 16 anos, estou aproveitando ao máximo a bolsa da Platzi e estou gostando bastante das aulas e dos professores.
 
 #Giovane da Silva Sobrinho
+
 Olá, Sou o Giovane de Petrópolis-RJ,tenho 29 anos e amo tecnologia, desde pequeno sempre gostei de computadores,desde meus 16 anos trabalhei com manutenção de computadores entre outras coisas, este curso esta me ajudando a aprender a programar e mudando paradigmas, sei um pouco de C e C++, vi um pouco de java script com o primeiro modulo e espero aprender mais. Espero pode contribuir com os toda a cominidade com os conhecimentos que vou receber.  
+
+
