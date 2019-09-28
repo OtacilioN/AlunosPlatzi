@@ -22,4 +22,7 @@ Meu nome é Felipe, moro em Brasília, tenho 24 anos e estou cursando Bacharelad
 
 Olá, Sou o Giovane de Petrópolis-RJ, tenho 29 anos e amo tecnologia, desde pequeno sempre gostei de computadores,desde meus 16 anos trabalhei com manutenção de computadores entre outras coisas, este curso esta me ajudando a aprender a programar e mudando paradigmas, sei um pouco de C e C++, vi um pouco de java script com o primeiro modulo e espero aprender mais. Espero pode contribuir com os toda a cominidade com os conhecimentos que vou receber.  
 
+## Allison Vasconcelos
+
+Olá, Meu nome é Allison Vasconcelos, moro em Fortaleza-Ce, tenho 30 anos e estou cursando o 2º semestre do curso de tecnologia de Analise e desenvolvimento de sistemas. Atualmente estou aprendendo a desenvolver em Javascript e meu objetivo é trabalhar com react. Adoro css tambem e graças a Platzi estou reforçando e obtendo muito conhecimento sobre essas tecnologias.
 
