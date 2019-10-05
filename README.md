@@ -26,3 +26,6 @@ Olá, Sou o Giovane de Petrópolis-RJ, tenho 29 anos e amo tecnologia, desde peq
 
 Olá, Meu nome é Allison Vasconcelos, moro em Fortaleza-Ce, tenho 30 anos e estou cursando o 2º semestre do curso de tecnologia de Analise e desenvolvimento de sistemas. Atualmente estou aprendendo a desenvolver em Javascript e meu objetivo é trabalhar com react. Adoro css tambem e graças a Platzi estou reforçando e obtendo muito conhecimento sobre essas tecnologias.
 
+## Mayra Perpétua
+
+Olá, me chamo Mayra, tenho 19 anos e moro em Natal, cidade do sol. Sou técnica em Mecatrônica, atualmente estudo Tecnologia da Informação com ênfase em Desenvolvimento Web, participo de um projeto de foguetemodelismo e pesquisas aeroespaciais. E para complementar os meus estudos eu escolhi aprender cada vez mais com a Platzi. 
