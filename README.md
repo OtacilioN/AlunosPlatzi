@@ -28,4 +28,8 @@ Olá, Meu nome é Allison Vasconcelos, moro em Fortaleza-Ce, tenho 30 anos e est
 
 ## Mayra Perpétua
 
-Olá, me chamo Mayra, tenho 19 anos e moro em Natal, cidade do sol. Sou técnica em Mecatrônica, atualmente estudo Tecnologia da Informação com ênfase em Desenvolvimento Web, participo de um projeto de foguetemodelismo e pesquisas aeroespaciais. E para complementar os meus estudos eu escolhi aprender cada vez mais com a Platzi. 
+Olá, me chamo Mayra, tenho 19 anos e moro em Natal, cidade do sol. Sou técnica em Mecatrônica, atualmente estudo Tecnologia da Informação com ênfase em Desenvolvimento Web, participo de um projeto de foguetemodelismo e pesquisas aeroespaciais. E para complementar os meus estudos eu escolhi aprender cada vez mais com a Platzi.
+
+## Sergio Bonatto
+
+Olá, me chamo Sergio Bonatto, tenhp 26 anos, moro em Brasília. Sou teologo, mas decidi me aventurar na área da programação, comecei a estudar Python por vídeos do YouTube, mas queria algo mais aprofundado e. pesquisando um pouco, conheci a Platzi. Agora estou estudando para o desenvolvimento web, com JS, CSS e HTML, bem como o curso de Git e GitHub, o qual estou amando.
