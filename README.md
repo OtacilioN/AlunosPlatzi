@@ -33,3 +33,7 @@ Olá, me chamo Mayra, tenho 19 anos e moro em Natal, cidade do sol. Sou técnica
 ## Sergio Bonatto
 
 Olá, me chamo Sergio Bonatto, tenhp 26 anos, moro em Brasília. Sou teologo, mas decidi me aventurar na área da programação, comecei a estudar Python por vídeos do YouTube, mas queria algo mais aprofundado e. pesquisando um pouco, conheci a Platzi. Agora estou estudando para o desenvolvimento web, com JS, CSS e HTML, bem como o curso de Git e GitHub, o qual estou amando.
+
+## Carlos Alberto
+
+Olá, me chamo Carlos Alberto, tenho 20 anos, moro em Fortaleza-Ce.Faço graduação em Ciência da Computação e atualmente estou cursando 4º semestre.Entrei na programação usando o Java, porem tenho muito interesse em javascript para desenvolvimento web com foco em React. 
