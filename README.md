@@ -33,3 +33,8 @@ Olá, me chamo Mayra, tenho 19 anos e moro em Natal, cidade do sol. Sou técnica
 ## Sergio Bonatto
 
 Olá, me chamo Sergio Bonatto, tenhp 26 anos, moro em Brasília. Sou teologo, mas decidi me aventurar na área da programação, comecei a estudar Python por vídeos do YouTube, mas queria algo mais aprofundado e. pesquisando um pouco, conheci a Platzi. Agora estou estudando para o desenvolvimento web, com JS, CSS e HTML, bem como o curso de Git e GitHub, o qual estou amando.
+
+## Vicente Monteiro
+
+Meu nome é Vicente Monteiro, moro no litoral de São Paulo na cidade de Santos, tenho 31 anos, sou graduado em Engenharia Civil, porém estou buscando uma transição de carreira para a aréa de TI por ser uma área que tenho muito interesse e curiosidade em aprender, comecei estudando HTML e PHP, após encontrar essa oportunidade de cursar gratuitamente, vi a minha chance de desenvolver minha carreira na área e estou me esforçando para conseguir isso futuramente.
+
