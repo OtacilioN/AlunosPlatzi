@@ -38,3 +38,6 @@ Olá, me chamo Sergio Bonatto, tenhp 26 anos, moro em Brasília. Sou teologo, ma
 
 Meu nome é Vicente Monteiro, moro no litoral de São Paulo na cidade de Santos, tenho 31 anos, sou graduado em Engenharia Civil, porém estou buscando uma transição de carreira para a aréa de TI por ser uma área que tenho muito interesse e curiosidade em aprender, comecei estudando HTML e PHP, após encontrar essa oportunidade de cursar gratuitamente, vi a minha chance de desenvolver minha carreira na área e estou me esforçando para conseguir isso futuramente.
 
+## Carlos Alberto
+
+Olá, me chamo Carlos Alberto, tenho 20 anos, moro em Fortaleza-Ce.Faço graduação em Ciência da Computação e atualmente estou cursando 4º semestre.Entrei na programação usando o Java, porem tenho muito interesse em javascript para desenvolvimento web com foco em React. 
