@@ -44,3 +44,6 @@ Olá, me chamo Carlos Alberto, tenho 20 anos, moro em Fortaleza-Ce.Faço gradua�
 ## Lilian Vieira
 Olá, me chamo Lilian Vieira, tenho 30 anos, moro em Sao Paulo, sempre trabalhei com administracao, porem busco uma carreira na area de TI. Estou amando o curso e a escola!
 
+
+## Fabiano Bispo
+Olá, me chamo Fabiano Bispo, tenho 29 anos. mineiro de juiz de fora, trabalho com manutenção em notebooks e estudando para trabalhar na área de programacao, genhei essa bolsa da platzi e estou muito animando para essa nova fase. 
