@@ -47,3 +47,6 @@ Olá, me chamo Lilian Vieira, tenho 30 anos, moro em Sao Paulo, sempre trabalhei
 
 ## Fabiano Bispo
 Olá, me chamo Fabiano Bispo, tenho 29 anos. mineiro de juiz de fora, trabalho com manutenção em notebooks e estudando para trabalhar na área de programacao, genhei essa bolsa da platzi e estou muito animando para essa nova fase. 
+
+## Aliny Kelly Sousa
+Eu sou Aliny, moro em Fortaleza-CE, tenho 30 anos e estou adorando os cursos da Platzi. Sou apaixonada por Design Gráfico e atualmente estou focando em programação. Quero unir as duas áreas que amo através do desenvolvimento de games. Tenho muito que aprender ainda, mas não irei desistir. Nunca deixe de aprender!
