@@ -53,3 +53,7 @@ Olá, me chamo Nathan Pereira, tenho 20 anos. moro em Fortaleza-Ceara, e estou a
 
 ## Aliny Kelly Sousa
 Eu sou Aliny, moro em Fortaleza-CE, tenho 30 anos e estou adorando os cursos da Platzi. Sou apaixonada por Design Gráfico e atualmente estou focando em programação. Quero unir as duas áreas que amo através do desenvolvimento de games. Tenho muito que aprender ainda, mas não irei desistir. Nunca deixe de aprender!
+
+## Richard Lima
+
+Meu nome é Richard, tenho 23 anos, sou de São Paulo e me encantei pelo mundo da programação há pouco tempo, mas sempre amei programar (pois passava a infância criando jogos no RPG Maker e "sites" e animações usando o Powerpoint). Meu sonho é me tornar um Desenvolvedor FullStack, e acredito que os cursos da Platzi vão me ajudar imensamente na conquista desse objetivo!
