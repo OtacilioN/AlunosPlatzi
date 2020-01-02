@@ -54,6 +54,9 @@ Olá, me chamo Nathan Pereira, tenho 20 anos. moro em Fortaleza-Ceara, e estou a
 ## Aliny Kelly Sousa
 Eu sou Aliny, moro em Fortaleza-CE, tenho 30 anos e estou adorando os cursos da Platzi. Sou apaixonada por Design Gráfico e atualmente estou focando em programação. Quero unir as duas áreas que amo através do desenvolvimento de games. Tenho muito que aprender ainda, mas não irei desistir. Nunca deixe de aprender!
 
+## Stephanie Medeiros
+Eu sou Stephanie Medeiros, tenho 23 anos e sou do Rio de Janeiro-RJ. Atualmente estudo engenharia química e pretendo seguir na ramificação que trabalha com programação. No início da graduação, comecei o contato com programação por C, mas recentemente segui para python e matlab. Agora JavaScript (juntamento com desenvolvimento de website aqui na Platzi). Fiquei muito feliz ao receber a bolsa e meu interesse aumenta conforme prossigo!
+
 ## Erika Bianca Csan
 Eu sou Erika Bianca (mais conhecida só como Bianca). Moro em Brasília-DF. Tenho 22 anos e sou estudante de Engenharia da Computação. Estou adorando toda a formação front-end da Platzi. Há um tempo, percebi que o que gosto mesmo é dessa coisa de desenvolvimento web e JavaScript é meu atual xodó. 
 Bora continuar aprendendo aqui!! :D
