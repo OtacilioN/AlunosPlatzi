@@ -44,7 +44,6 @@ Olá, me chamo Carlos Alberto, tenho 20 anos, moro em Fortaleza-Ce.Faço gradua�
 ## Lilian Vieira
 Olá, me chamo Lilian Vieira, tenho 30 anos, moro em Sao Paulo, sempre trabalhei com administracao, porem busco uma carreira na area de TI. Estou amando o curso e a escola!
 
-
 ## Fabiano Bispo
 Olá, me chamo Fabiano Bispo, tenho 29 anos. mineiro de juiz de fora, trabalho com manutenção em notebooks e estudando para trabalhar na área de programacao, genhei essa bolsa da platzi e estou muito animando para essa nova fase. 
 
@@ -53,6 +52,9 @@ Olá, me chamo Nathan Pereira, tenho 20 anos. moro em Fortaleza-Ceara, e estou a
 
 ## Aliny Kelly Sousa
 Eu sou Aliny, moro em Fortaleza-CE, tenho 30 anos e estou adorando os cursos da Platzi. Sou apaixonada por Design Gráfico e atualmente estou focando em programação. Quero unir as duas áreas que amo através do desenvolvimento de games. Tenho muito que aprender ainda, mas não irei desistir. Nunca deixe de aprender!
+
+## Richard Lima
+Meu nome é Richard, tenho 23 anos, sou de São Paulo e me encantei pelo mundo da programação há pouco tempo, mas sempre amei programar (pois passava a infância criando jogos no RPG Maker e "sites" e animações usando o Powerpoint). Meu sonho é me tornar um Desenvolvedor FullStack, e acredito que os cursos da Platzi vão me ajudar imensamente na conquista desse objetivo!
 
 ## Stephanie Medeiros
 Eu sou Stephanie Medeiros, tenho 23 anos e sou do Rio de Janeiro-RJ. Atualmente estudo engenharia química e pretendo seguir na ramificação que trabalha com programação. No início da graduação, comecei o contato com programação por C, mas recentemente segui para python e matlab. Agora JavaScript (juntamento com desenvolvimento de website aqui na Platzi). Fiquei muito feliz ao receber a bolsa e meu interesse aumenta conforme prossigo!
