@@ -62,3 +62,6 @@ Eu sou Stephanie Medeiros, tenho 23 anos e sou do Rio de Janeiro-RJ. Atualmente 
 ## Erika Bianca Csan
 Eu sou Erika Bianca (mais conhecida só como Bianca). Moro em Brasília-DF. Tenho 22 anos e sou estudante de Engenharia da Computação. Estou adorando toda a formação front-end da Platzi. Há um tempo, percebi que o que gosto mesmo é dessa coisa de desenvolvimento web e JavaScript é meu atual xodó. 
 Bora continuar aprendendo aqui!! :D
+
+## Paulo Oliveira
+Saudações devs! Meu nome é Paulo, tenho 21 anos e moro na cidade de Belo Horizonte - MG. Estou cursando o 6º período de Ciência da Computação e sou apaixonado por aprender coisas novas. Atualmente estou de férias e estou aproveitando meu tempo livre para fazer os cursos da Platzi. Comecei no universo da programação com as linguagens C/C++ em 2017, no ano seguinte conheci SQL e Java. Ano passado comecei a brincar com HTML e CSS e gostei muito! Agora pretendo aprofundar em programação web com JavaScript e PHP! Bora continuar aprendendo cada dia mais um pouquinho pois o céu é o limite!
