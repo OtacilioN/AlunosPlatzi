@@ -70,3 +70,6 @@ Saudações devs! Meu nome é Paulo, tenho 21 anos e moro na cidade de Belo Hori
 ## Pedro Emanuel Lima
 "Hello Word!" hahaha
 Meu nome é Pedro, tenho 18 anos e moro na cidade do Crato - CE. Estou cursando o 3º período de Sistemas de Informação. Comecei a programar em curso técnico que participei, meu primeiro contato foi com programção web, onde me embasei em HTML e CSS, além da linguagem php, logo após aprendi SQL. No inicio de minha graduação aprendi novas linguagens como python e C. Agora através da Platzi busco me aprofundar mais na programação web, com finalidade de adquirir vários conhecimento para destcar-me no mercado de trabalho. Estou gostando muito, e espero aprender cada vez mais! 
+
+## Leda Gomes 
+Olá, é um prazer participar deste grupo. Sou paulista mas, atualmente moro em Recife. Já busco a área de programação há muito tempo e agora graças a Platzi está ficando fácil. Estou estudando Java e, adoro Javascript. Adoro estudar. Sou da turma que começou em Dezembro/19. Não vou parar. Bjs a todos. Otacilio sua terra é D+.
