@@ -53,6 +53,7 @@ Olá, me chamo Nathan Pereira, tenho 20 anos. moro em Fortaleza-Ceara, e estou a
 ## Aliny Kelly Sousa
 Eu sou Aliny, moro em Fortaleza-CE, tenho 30 anos e estou adorando os cursos da Platzi. Sou apaixonada por Design Gráfico e atualmente estou focando em programação. Quero unir as duas áreas que amo através do desenvolvimento de games. Tenho muito que aprender ainda, mas não irei desistir. Nunca deixe de aprender!
 
+
 ## Richard Lima
 Meu nome é Richard, tenho 23 anos, sou de São Paulo e me encantei pelo mundo da programação há pouco tempo, mas sempre amei programar (pois passava a infância criando jogos no RPG Maker e "sites" e animações usando o Powerpoint). Meu sonho é me tornar um Desenvolvedor FullStack, e acredito que os cursos da Platzi vão me ajudar imensamente na conquista desse objetivo!
 
@@ -69,5 +70,9 @@ Saudações devs! Meu nome é Paulo, tenho 21 anos e moro na cidade de Belo Hori
 ## Luiz Felipe de Moura
 Olá! Eu sou o Luiz, tenho 20 anos, sou de Itumbiara-GO mas atualmente moro em Porto Alegre-RS. Faço Engenharia de Controle e Automação na UFRGS e estou indo para o 5º período. Gosto muito de programar em C, C++, Java e Python. Estou aproveitando as férias para colocar em dia os cursos da Platzi que deixei acumular rsrs. VAMO DALE!
 
+## Pedro Emanuel Lima
+"Hello Word!" hahaha
+Meu nome é Pedro, tenho 18 anos e moro na cidade do Crato - CE. Estou cursando o 3º período de Sistemas de Informação. Comecei a programar em curso técnico que participei, meu primeiro contato foi com programção web, onde me embasei em HTML e CSS, além da linguagem php, logo após aprendi SQL. No inicio de minha graduação aprendi novas linguagens como python e C. Agora através da Platzi busco me aprofundar mais na programação web, com finalidade de adquirir vários conhecimento para destcar-me no mercado de trabalho. Estou gostando muito, e espero aprender cada vez mais! 
 
-
+## Leda Gomes 
+Olá, é um prazer participar deste grupo. Sou paulista mas, atualmente moro em Recife. Já busco a área de programação há muito tempo e agora graças a Platzi está ficando fácil. Estou estudando Java e, adoro Javascript. Adoro estudar. Sou da turma que começou em Dezembro/19. Não vou parar. Bjs a todos. Otacilio sua terra é D+.
