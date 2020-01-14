@@ -53,6 +53,7 @@ Olá, me chamo Nathan Pereira, tenho 20 anos. moro em Fortaleza-Ceara, e estou a
 ## Aliny Kelly Sousa
 Eu sou Aliny, moro em Fortaleza-CE, tenho 30 anos e estou adorando os cursos da Platzi. Sou apaixonada por Design Gráfico e atualmente estou focando em programação. Quero unir as duas áreas que amo através do desenvolvimento de games. Tenho muito que aprender ainda, mas não irei desistir. Nunca deixe de aprender!
 
+
 ## Richard Lima
 Meu nome é Richard, tenho 23 anos, sou de São Paulo e me encantei pelo mundo da programação há pouco tempo, mas sempre amei programar (pois passava a infância criando jogos no RPG Maker e "sites" e animações usando o Powerpoint). Meu sonho é me tornar um Desenvolvedor FullStack, e acredito que os cursos da Platzi vão me ajudar imensamente na conquista desse objetivo!
 
@@ -65,3 +66,7 @@ Bora continuar aprendendo aqui!! :D
 
 ## Paulo Oliveira
 Saudações devs! Meu nome é Paulo, tenho 21 anos e moro na cidade de Belo Horizonte - MG. Estou cursando o 6º período de Ciência da Computação e sou apaixonado por aprender coisas novas. Atualmente estou de férias e estou aproveitando meu tempo livre para fazer os cursos da Platzi. Comecei no universo da programação com as linguagens C/C++ em 2017, no ano seguinte conheci SQL e Java. Ano passado comecei a brincar com HTML e CSS e gostei muito! Agora pretendo aprofundar em programação web com JavaScript e PHP! Bora continuar aprendendo cada dia mais um pouquinho pois o céu é o limite!
+
+## Pedro Emanuel Lima
+"Hello Word!" hahaha
+Meu nome é Pedro, tenho 18 anos e moro na cidade do Crato - CE. Estou cursando o 3º período de Sistemas de Informação. Comecei a programar em curso técnico que participei, meu primeiro contato foi com programção web, onde me embasei em HTML e CSS, além da linguagem php, logo após aprendi SQL. No inicio de minha graduação aprendi novas linguagens como python e C. Agora através da Platzi busco me aprofundar mais na programação web, com finalidade de adquirir vários conhecimento para destcar-me no mercado de trabalho. Estou gostando muito, e espero aprender cada vez mais! 
