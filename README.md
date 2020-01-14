@@ -67,6 +67,9 @@ Bora continuar aprendendo aqui!! :D
 ## Paulo Oliveira
 Saudações devs! Meu nome é Paulo, tenho 21 anos e moro na cidade de Belo Horizonte - MG. Estou cursando o 6º período de Ciência da Computação e sou apaixonado por aprender coisas novas. Atualmente estou de férias e estou aproveitando meu tempo livre para fazer os cursos da Platzi. Comecei no universo da programação com as linguagens C/C++ em 2017, no ano seguinte conheci SQL e Java. Ano passado comecei a brincar com HTML e CSS e gostei muito! Agora pretendo aprofundar em programação web com JavaScript e PHP! Bora continuar aprendendo cada dia mais um pouquinho pois o céu é o limite!
 
+## Luiz Felipe de Moura
+Olá! Eu sou o Luiz, tenho 20 anos, sou de Itumbiara-GO mas atualmente moro em Porto Alegre-RS. Faço Engenharia de Controle e Automação na UFRGS e estou indo para o 5º período. Gosto muito de programar em C, C++, Java e Python. Estou aproveitando as férias para colocar em dia os cursos da Platzi que deixei acumular rsrs. VAMO DALE!
+
 ## Pedro Emanuel Lima
 "Hello Word!" hahaha
 Meu nome é Pedro, tenho 18 anos e moro na cidade do Crato - CE. Estou cursando o 3º período de Sistemas de Informação. Comecei a programar em curso técnico que participei, meu primeiro contato foi com programção web, onde me embasei em HTML e CSS, além da linguagem php, logo após aprendi SQL. No inicio de minha graduação aprendi novas linguagens como python e C. Agora através da Platzi busco me aprofundar mais na programação web, com finalidade de adquirir vários conhecimento para destcar-me no mercado de trabalho. Estou gostando muito, e espero aprender cada vez mais! 
