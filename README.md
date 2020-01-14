@@ -65,3 +65,6 @@ Bora continuar aprendendo aqui!! :D
 
 ## Paulo Oliveira
 Saudações devs! Meu nome é Paulo, tenho 21 anos e moro na cidade de Belo Horizonte - MG. Estou cursando o 6º período de Ciência da Computação e sou apaixonado por aprender coisas novas. Atualmente estou de férias e estou aproveitando meu tempo livre para fazer os cursos da Platzi. Comecei no universo da programação com as linguagens C/C++ em 2017, no ano seguinte conheci SQL e Java. Ano passado comecei a brincar com HTML e CSS e gostei muito! Agora pretendo aprofundar em programação web com JavaScript e PHP! Bora continuar aprendendo cada dia mais um pouquinho pois o céu é o limite!
+
+## Leda Gomes 
+Olá, é um prazer participar deste grupo. Sou paulista mas, atualmente moro em Recife. Já busco a área de programação há muito tempo e agora graças a Platzi está ficando fácil. Estou estudando Java e, adoro Javascript. Adoro estudar. Sou da turma que começou em Dezembro/19. Não vou parar. Bjs a todos. Otacilio sua terra é D+.
