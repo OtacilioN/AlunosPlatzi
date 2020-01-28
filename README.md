@@ -77,5 +77,8 @@ Meu nome é Pedro, tenho 18 anos e moro na cidade do Crato - CE. Estou cursando 
 ## Leda Gomes 
 Olá, é um prazer participar deste grupo. Sou paulista mas, atualmente moro em Recife. Já busco a área de programação há muito tempo e agora graças a Platzi está ficando fácil. Estou estudando Java e, adoro Javascript. Adoro estudar. Sou da turma que começou em Dezembro/19. Não vou parar. Bjs a todos. Otacilio sua terra é D+.
 
+## Jennyffer Morais
+Oi, eu sou a Jennyffer. Sou Advogada e Graduanda em Análise e Desenvolvimento de Sistemas. Estou migrando da Advocacia para a área de TI. Sou de Vila Velha/ES mas, estou morando em Recife/PE e aproveitando ao máximo os encontros do DevC Recife - que são ótimos. Estou adorando aprender mais sobre FrontEnd com a Platzi. 
+
 ## Jéssica Silvano de Sousa
 Olá, sou de Curitiba e tenho 26 anos. Gosto da área de computação desde os meus 11 anos quando comecei um curso de informática. Sou formada em Técnico de Informática pelo Senac. Sei um pouco de HTML, CSS, Java, MYSQL e agora estou aprendendo Javascript graças à Platzi. Meu sonho é me tornar Desenvolvedora FullStack. Agradeço muito pela oportunidade de estar fazendo esse curso, até ampliando demais os meus conhecimentos.
