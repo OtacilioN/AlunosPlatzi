@@ -81,4 +81,9 @@ Olá, é um prazer participar deste grupo. Sou paulista mas, atualmente moro em 
 Oi, eu sou a Jennyffer. Sou Advogada e Graduanda em Análise e Desenvolvimento de Sistemas. Estou migrando da Advocacia para a área de TI. Sou de Vila Velha/ES mas, estou morando em Recife/PE e aproveitando ao máximo os encontros do DevC Recife - que são ótimos. Estou adorando aprender mais sobre FrontEnd com a Platzi. 
 
 ## Jéssica Silvano de Sousa
-Olá, sou de Curitiba e tenho 26 anos. Gosto da área de computação desde os meus 11 anos quando comecei um curso de informática. Sou formada em Técnico de Informática pelo Senac. Sei um pouco de HTML, CSS, Java, MYSQL e agora estou aprendendo Javascript graças à Platzi. Meu sonho é me tornar Desenvolvedora FullStack. Agradeço muito pela oportunidade de estar fazendo esse curso, até ampliando demais os meus conhecimentos.
+Olá, sou de Curitiba e tenho 26 anos. Gosto da área de computação desde os meus 11 anos quando comecei um curso de informática. Sou formada em Técnico de Informática pelo Senac. Sei um pouco de HTML, CSS, Java, MYSQL e agora estou aprendendo Javascript graças à Platzi. Meu sonho é me tornar Desenvolvedora FullStack. Agradeço muito pela oportunidade de estar fazendo esse curso, até ampliando demais os meus conhecimentosa
+
+## Carolina Brito
+Olá, sou Carol de Recife e estou aprendendo programação. Vou escrver pouco pra proxima pessoa não ter que demorar tanto para chegar no fim do texto kkkkk.
+
+
