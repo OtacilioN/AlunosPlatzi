@@ -86,4 +86,5 @@ Olá, sou de Curitiba e tenho 26 anos. Gosto da área de computação desde os m
 ## Carolina Brito
 Olá, sou Carol de Recife e estou aprendendo programação. Vou escrver pouco pra proxima pessoa não ter que demorar tanto para chegar no fim do texto kkkkk.
 
-
+## Daniel Camuçatto
+Olá, sou Daniel e ganhei uma bolsa da Platzi com o Facebook, estou mudando de área profissional e essa oportunidade é unica, agradeço a toda a equipe Platzi por isso, espero que todos que tenham chegado até aqui se emprenhem em suas carreiras profissionais. 
