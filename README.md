@@ -94,3 +94,6 @@ Olá, sou Carol de Recife e estou aprendendo programação. Vou escrver pouco pr
 
 ## Daniel Camuçatto
 Olá, sou Daniel e ganhei uma bolsa da Platzi com o Facebook, estou mudando de área profissional e essa oportunidade é unica, agradeço a toda a equipe Platzi por isso, espero que todos que tenham chegado até aqui se emprenhem em suas carreiras profissionais. 
+
+## Rose Félix
+Olá, eu sou Rose e estou aprendendo Front-end para migrar para a área de desenvolvimento. Trabalho com TI, mas ainda não sou programadora. Platzi, grata pela oportunidade!
