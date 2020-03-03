@@ -97,3 +97,6 @@ Olá, sou Daniel e ganhei uma bolsa da Platzi com o Facebook, estou mudando de �
 
 ## Rose Félix
 Olá, eu sou Rose e estou aprendendo Front-end para migrar para a área de desenvolvimento. Trabalho com TI, mas ainda não sou programadora. Platzi, grata pela oportunidade!
+
+## Anicely Santos
+Olá, eu sou Anicely, adoro programar e estou gostando desse curso. 
