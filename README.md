@@ -100,3 +100,6 @@ Olá, eu sou Rose e estou aprendendo Front-end para migrar para a área de desen
 
 ## Anicely Santos
 Olá, eu sou Anicely, adoro programar e estou gostando desse curso. 
+
+## Luana Cristina
+Olá, sou Luana Cristina de Recife e estou super feliz com a bolsa do Facebook Developer Circle da Platzi. Estou aprendendo muito. Sou da área de BI e QA e desejo retornar para programação de software e aperfeiçoar a automação de testes e adicionar predição no meu projeto de análise de dados dos acidentes de trânsitos do Recife.
