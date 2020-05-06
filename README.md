@@ -106,3 +106,7 @@ Olá, sou Luana Cristina de Recife e estou super feliz com a bolsa do Facebook D
 
 ## Daniel Afanador
 Olá, pessoal! Meu nome é Daniel. Nasci na Colômbia (Bogotá) mas moro em SP. Hoje trabalho com mídia e Facebook Ads, mas sempre me interessei pelo conhecimento técnico. Antes do curso de Git, já utilizava a terminal do Ubuntu para resolver alguns problemas no meu computador. Sei coisas básicas de HTML, SQL e JavaScript. Além disso, fiz o curso de programação básica aqui na Platzi, e pretendo continuar estudando para me tornar um melhor profissional.
+
+##  Fábio Onil
+Olá, meu nome é Fabio, nasci em campinas porém atualmente moro em Indaiatuba SP, sou iniciante na programção mas quero aprender agora HTML, JV, JVS, CS, porém já trabalho na criacão de sites e Chat Bots quero
+ser um programdor profissional morando no Canada
