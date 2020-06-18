@@ -110,3 +110,6 @@ Olá, pessoal! Meu nome é Daniel. Nasci na Colômbia (Bogotá) mas moro em SP. 
 ##  Fábio Onil
 Olá, meu nome é Fabio, nasci em campinas porém atualmente moro em Indaiatuba SP, sou iniciante na programção mas quero aprender agora HTML, JV, JVS, CS, porém já trabalho na criacão de sites e Chat Bots quero
 ser um programdor profissional morando no Canada
+
+## Helena Simões
+Olá, meu nome é Helena, vivo em Brasília-DF. Sou UX Designer com vários anos de experiência mas resolvi ampliar meu skill set para o desenvolvimento. Conheço C, Python e JavaScript. Gosto de fazer protótipos com Arduino, me aventurar pelo mundo maker, amo gatos e chás.
