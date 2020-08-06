@@ -113,3 +113,6 @@ ser um programdor profissional morando no Canada
 
 ## Helena Simões
 Olá, meu nome é Helena, vivo em Brasília-DF. Sou UX Designer com vários anos de experiência mas resolvi ampliar meu skill set para o desenvolvimento. Conheço C, Python e JavaScript. Gosto de fazer protótipos com Arduino, me aventurar pelo mundo maker, amo gatos e chás.
+
+## Éric Vinícius
+Olá, meu nome é Éric, moro em Sobral-CE. Sou estudante de engenharia da computação, no momento estou estudando desenvolvimento web e estou adorando o curso de git e github.
