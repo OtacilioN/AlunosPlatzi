@@ -116,3 +116,6 @@ Olá, meu nome é Helena, vivo em Brasília-DF. Sou UX Designer com vários anos
 
 ## Éric Vinícius
 Olá, meu nome é Éric, moro em Sobral-CE. Sou estudante de engenharia da computação, no momento estou estudando desenvolvimento web e estou adorando o curso de git e github.
+
+## Rodolfo Bispo
+Olá Devs! sou o Rodolfo, moro em Olinda - PE. Programo em algumas linguagens como PHP, JS, JAVA e Python. Adoro aprender coisas novas! Amanhã é meu primeiro dia no CESAR como Engenheiro de Software e estou super animado para essa minha nova jornada. Adorei fazer esse curso. Deixo aqui meu muito obrigado a Otacílio e sucesso a todos que estão buscando ampliar seus conhecimentos.
