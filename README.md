@@ -116,3 +116,6 @@ Olá, meu nome é Helena, vivo em Brasília-DF. Sou UX Designer com vários anos
 
 ## Éric Vinícius
 Olá, meu nome é Éric, moro em Sobral-CE. Sou estudante de engenharia da computação, no momento estou estudando desenvolvimento web e estou adorando o curso de git e github.
+
+## Lucas Moreira
+Olá, meu nome é Lucas, moro em Recife-PE. Sou estudante de Direito, porém decidi aprender sobre TI após meus amigos (incluindo Otacílio!) falarem muito bem da área. No momento estou amando aprender sobre esse mundo, que é verdadeiramente novo, e achando tudo muito interessante e divertido. Por fim, acho importante ressaltar que estou praticamente decidido em mudar de área, pois parece que eu realmente me encontrei como um programador!
