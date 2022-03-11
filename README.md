@@ -119,3 +119,6 @@ Olá, meu nome é Éric, moro em Sobral-CE. Sou estudante de engenharia da compu
 
 ## Rodolfo Bispo
 Olá Devs! sou o Rodolfo, moro em Olinda - PE. Programo em algumas linguagens como PHP, JS, JAVA e Python. Adoro aprender coisas novas! Amanhã é meu primeiro dia no CESAR como Engenheiro de Software e estou super animado para essa minha nova jornada. Adorei fazer esse curso. Deixo aqui meu muito obrigado a Otacílio e sucesso a todos que estão buscando ampliar seus conhecimentos.
+
+## Lucas Moreira
+Olá, meu nome é Lucas, moro em Recife-PE. Sou estudante de Direito, porém decidi aprender sobre TI após meus amigos (incluindo Otacílio!) falarem muito bem da área. No momento estou amando aprender sobre esse mundo, que é verdadeiramente novo, e achando tudo muito interessante e divertido. Por fim, acho importante ressaltar que estou praticamente decidido em mudar de área, pois parece que eu realmente me encontrei como um programador!
