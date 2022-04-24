@@ -122,3 +122,6 @@ Olá Devs! sou o Rodolfo, moro em Olinda - PE. Programo em algumas linguagens co
 
 ## Lucas Moreira
 Olá, meu nome é Lucas, moro em Recife-PE. Sou estudante de Direito, porém decidi aprender sobre TI após meus amigos (incluindo Otacílio!) falarem muito bem da área. No momento estou amando aprender sobre esse mundo, que é verdadeiramente novo, e achando tudo muito interessante e divertido. Por fim, acho importante ressaltar que estou praticamente decidido em mudar de área, pois parece que eu realmente me encontrei como um programador!
+
+## Felipe Sousa
+Hello World! Sou o Felipe, moro em Rio de Janeiro. Talvez eu seja um dos mais novos aqui, com apenas 16 anos, estou terminando 9o ano do fundamental. Sou iniciante em programação sei conceitos básicos de HTML e pretendo me profissionalizar no mundo dos Devs, sigo a luta aqui na Platzi para conquistar minhas metas. Boa sorte a todos os Devs!
