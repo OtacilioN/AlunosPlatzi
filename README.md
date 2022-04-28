@@ -122,3 +122,6 @@ Olá Devs! sou o Rodolfo, moro em Olinda - PE. Programo em algumas linguagens co
 
 ## Lucas Moreira
 Olá, meu nome é Lucas, moro em Recife-PE. Sou estudante de Direito, porém decidi aprender sobre TI após meus amigos (incluindo Otacílio!) falarem muito bem da área. No momento estou amando aprender sobre esse mundo, que é verdadeiramente novo, e achando tudo muito interessante e divertido. Por fim, acho importante ressaltar que estou praticamente decidido em mudar de área, pois parece que eu realmente me encontrei como um programador!
+
+## Gabriel Zanin
+Olá devs! meu nome é Gabriel, porém desde criança sou acostumado por me chamarem de Zanin. Nasci em São José dos Campos onde moro até hoje, mas já me aventurei por outros cantos do nosso país durante alguns projetos de vida. Hoje tenho 25 anos e sempre gostei da área de TI, curso ciência da computação na UNIFESP e estou gostando bastante, principalmente de frontend que é onde atuo, com as stacks de Javascript, HTML e CSS.
