@@ -123,5 +123,8 @@ Olá Devs! sou o Rodolfo, moro em Olinda - PE. Programo em algumas linguagens co
 ## Lucas Moreira
 Olá, meu nome é Lucas, moro em Recife-PE. Sou estudante de Direito, porém decidi aprender sobre TI após meus amigos (incluindo Otacílio!) falarem muito bem da área. No momento estou amando aprender sobre esse mundo, que é verdadeiramente novo, e achando tudo muito interessante e divertido. Por fim, acho importante ressaltar que estou praticamente decidido em mudar de área, pois parece que eu realmente me encontrei como um programador!
 
+## Adriano Bispo
+Olá, meu nome é Adriano, tenho 18 anos, sou recifense e estudo na ETE Porto Digital onde estou concluindo meu ensino médio/técnico como desenvolvedor de sistemas. Tenho conhecimento em JavaScript, HTML, CSS, Bootstrap, IonicAPP, Python, SASS, TypeScript, MySQL, MongoDB e Angular. Atualmente estou mais ligado ao Front-End do que o Back, mas pretendo expandir minhas habilidades para me tornar um dev full stack. Espero que num futuro próximo eu realize meu sonho de trabalhar em uma das empresas do ecossistema do Porto Digital. Até lá, seguirei estudando e me dedicando cada vez mais, dia-após-dia até que de fato eu consiga tornar esse sonho em realidade. (21/07/2022)
+
 # Jean Xavier
 Sou de Florianópolis-SC, relembrando sobre git e gitHub, fiquei um tempo afastado da área enquanto colocava em prática outros projetos. Curso muito bom, objetivo com excelente didática. Migrando do Delphi desktop para desenvolvimento web backend com javascript, Node.js. O melhor curso de git e gitHub que já fiz até hoje, obrigado!
